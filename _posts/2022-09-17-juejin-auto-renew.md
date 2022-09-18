@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 掘金研报会员自动续费服务协议
-categories: [掘金研报]
+categories: []
 ---
 
 -  本版更新时间：2022年09月7日 
