@@ -4,14 +4,14 @@ title: 掘金研报 - 技术服务指南
 categories: [掘金研报]
 ---
 
+![](/images/juejin-banner.png)
 
 作为一名非科班 (金融会计专业) 出身的业余投资者，在投资入门 (入坑) 的过程中，经常苦于寻找各种靠谱的：公司研报、行业报告、财务报表、机构调研信息 ..... 等资料。
 
 于是，在业余时间里，发挥了自己的搬砖能力，写了一款 iOS 研报 App (支持 iPad)：
 
-[掘金研报 - 投研分析必备工具](https://apps.apple.com/om/app/%E6%AC%A7%E6%8B%89%E7%A0%94%E6%8A%A5-%E4%B8%87%E5%8D%83%E7%A0%94%E6%8A%A5%E5%8A%A9%E5%8A%9B%E6%8A%95%E7%A0%94/id1603270809) 
+- [掘金研报 - 投研分析必备工具](https://apps.apple.com/om/app/%E6%AC%A7%E6%8B%89%E7%A0%94%E6%8A%A5-%E4%B8%87%E5%8D%83%E7%A0%94%E6%8A%A5%E5%8A%A9%E5%8A%9B%E6%8A%95%E7%A0%94/id1603270809) 
 
-![](/images/juejin-banner.png)
 
 ## 研报搜索
 
